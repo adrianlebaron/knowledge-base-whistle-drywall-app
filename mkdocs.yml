@@ -1,0 +1,65 @@
+site_name: My Docs
+site_name: Manage Whistle Docs
+extra_css:
+  - assets/extra.css
+
+theme:
+  name: material
+  features:
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.code.annotation
+    - content.code.copy
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tabs.sticky
+    - navigation.sections
+    - content.code.annotate
+    - content.metadata
+
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: teal
+      accent: purple 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: teal
+      accent: blue
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+  - tables
+
+plugins:
+  - search:
+      lang: en
+
+copyright: |
+  &copy; 2024 | Whistle Coding LLC all rights reserved
