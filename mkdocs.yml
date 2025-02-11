@@ -1,5 +1,4 @@
-site_name: My Docs
-site_name: Manage Whistle Docs
+site_name: Whistle Drywall App Knowledge Base
 extra_css:
   - assets/extra.css
 
@@ -62,4 +61,4 @@ plugins:
       lang: en
 
 copyright: |
-  &copy; 2024 | Whistle Coding LLC all rights reserved
+  &copy; 2025 | Whistle Coding LLC and Whistle Drywall App | all rights reserved
