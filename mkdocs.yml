@@ -1,6 +1,6 @@
 site_name: Whistle Drywall App Knowledge Base
 extra_css:
-  - assets/extra.css
+  - stylesheets/extra.css
 
 theme:
   name: material
@@ -24,13 +24,13 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: teal
+      primary: custom
       accent: purple 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-      primary: teal
+      primary: custom
       accent: blue
 
 markdown_extensions:
