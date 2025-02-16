@@ -1,34 +1,39 @@
 site_name: Whistle Drywall App Knowledge Base
+site_url: https://knowledge-base-whistledrywallapp.netlify.app/
 extra_css:
   - stylesheets/extra.css
 
 theme:
   name: material
   features:
-    - toc.integrate
     - search.suggest
     - search.highlight
-    - content.code.annotation
-    - content.code.copy
+    - search.share
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
-    - navigation.tabs.sticky
-    - navigation.sections
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.top
+    - content.code.annotation
+    - content.code.copy
     - content.code.annotate
     - content.metadata
 
   language: en
   palette:
+    # Palette toggle for light mode
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline 
+        icon: material/brightness-2
         name: Switch to dark mode
       primary: custom
-      accent: purple 
-    - scheme: slate 
+      accent: custom
+
+    # Palette toggle for dark mode
+    - scheme: slate
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-5
         name: Switch to light mode
       primary: custom
       accent: blue
@@ -57,6 +62,7 @@ markdown_extensions:
   - tables
 
 plugins:
+  - tags
   - search:
       lang: en
 
