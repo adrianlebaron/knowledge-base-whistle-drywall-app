@@ -38,5 +38,6 @@ The workers and users assigned to the team will now have access to the job assig
 
 We suggest looking into creating and managing your vendors or working on your worker contracts from here.
 
-[[Creating and Managing Vendors]]
-[[Create and Manage Workers]]
+[Creating and Managing Vendors](https://knowledge-base-whistledrywallapp.netlify.app/Vendors/creating-and-managing-your-vendors/)
+
+[Create and Manage Workers](https://knowledge-base-whistledrywallapp.netlify.app/Workers/creating-and-managing-workers/)
