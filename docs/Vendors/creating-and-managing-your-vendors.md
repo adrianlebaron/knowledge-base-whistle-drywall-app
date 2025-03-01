@@ -1,5 +1,7 @@
 The Whistle Drywall App is equipped with the Vendors Module to allow you to manage and provide an overview of all the Vendors that your organization will work with. Allowing you to easily assign them to specific jobs so your workers know to only utilize specific vendors for specific jobs and easily create Bills and Purchase Orders to assign to vendors.
+
 [Create and Manage your Purchase Orders](https://knowledge-base-whistledrywallapp.netlify.app/Purchase%20Orders/creating-and-managing-your-purchase-orders/)
+
 [Create and Manage Your Bills](https://knowledge-base-whistledrywallapp.netlify.app/Bills/create-and-manage-your-bills/)
 
 ![image](https://github.com/user-attachments/assets/490db31c-37f4-4ac0-9293-5b75bd705170)
@@ -27,4 +29,5 @@ Fill this info accurately and hit Save then hit Save Changes.
 ![image](https://github.com/user-attachments/assets/04f933a0-7c09-44c5-b974-f5790b2b6917)
 
 Now you have a new Vendor that you can assign to your jobs and start ordering Materials from.
+
 [Creating and Managing your Purchase Orders](https://knowledge-base-whistledrywallapp.netlify.app/Purchase%20Orders/creating-and-managing-your-purchase-orders/)
