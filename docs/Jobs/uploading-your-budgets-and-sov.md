@@ -3,7 +3,7 @@ Uploading your Budgets and Schedule of Values (SOV) to each relevant job is an e
 
 To start, head over to the Jobs Page.
 
-If you currently do not have any Jobs created or active jobs please reference the following article: [Job Creation](https://knowledge-base-whistledrywallapp.netlify.app/jobs/job-creation/)
+If you currently do not have any Jobs created or active jobs please reference the following article: [Job Creation](https://help.whistledrywallapp.com/jobs/job-creation/)
 
 Once you're on the Jobs Page, locate the relevant Job that you are uploading data to and take note of the following buttons below.
 
