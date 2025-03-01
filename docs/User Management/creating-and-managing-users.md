@@ -40,4 +40,4 @@ I will click the relevant checkbox for Test User and hit apply then move back to
 
 Being meticulous in your approach to creating and managing users will allow your organization to work effectively and efficiently within the Whistle App and will provide you the peace of mind that your organization is being managed well.
 
-Once you've created a few users, we suggest assigning them to Teams; Creating and Managing Your Teams so you can assign them to specific Jobs; [Job Creation](https://knowledge-base-whistledrywallapp.netlify.app/jobs/job-creation/)
+Once you've created a few users, we suggest assigning them to Teams; Creating and Managing Your Teams so you can assign them to specific Jobs; [Job Creation](https://help.whistledrywallapp.com/jobs/job-creation/)
