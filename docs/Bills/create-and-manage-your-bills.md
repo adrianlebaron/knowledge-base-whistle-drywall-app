@@ -9,11 +9,11 @@ Selecting the module will list your existing Bills and allow you to create new o
 
 If you have workers invoicing you for specific work or if you know which bills need to be created we can easily create one within this module.
 
-Let's create a new Bill from an existing Job. [Job Creation](https://knowledge-base-whistledrywallapp.netlify.app/jobs/job-creation/)
+Let's create a new Bill from an existing Job. [Job Creation](https://help.whistledrywallapp.com/jobs/job-creation/)
 
 ![image](https://github.com/user-attachments/assets/3e082797-d18b-4954-8cf4-252a0ffca8b7)
 
-If you currently haven't uploaded your budget and SOV for your existing jobs consider doing it now. [Uploading your Budgets and SOV](https://knowledge-base-whistledrywallapp.netlify.app/jobs/uploading-your-budgets-and-sov/)
+If you currently haven't uploaded your budget and SOV for your existing jobs consider doing it now. [Uploading your Budgets and SOV](https://help.whistledrywallapp.com/jobs/uploading-your-budgets-and-sov/)
 
 When you click the button it will pop up with the following box.
 
@@ -47,7 +47,7 @@ It will lead to this page with all the relevant information for the Worker or Ve
 Please take your time to review the items here and you can always edit it later if needed prior to approving the Bill.
 
 Your qualified staff member or accounting team member can always double check things here. If you haven't created a User account for one, you may do so now to help manage your Bills.
-[Creating and Managing Users](https://knowledge-base-whistledrywallapp.netlify.app/User%20Management/creating-and-managing-users/)
+[Creating and Managing Users](https://help.whistledrywallapp.com/User%20Management/creating-and-managing-users/)
 
 Once you're satisfied with the details in the Bill, you can hit save and go back to the Bill module overview.
 
