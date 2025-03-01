@@ -13,7 +13,7 @@ Let's create a new Purchase Order.
 
 ![image](https://github.com/user-attachments/assets/d0da3cd2-6ed6-4dc5-9100-5055fbc44b1a)
 
-Clicking New will allow you to choose between creating a Purchase Order from an existing job's PML [Uploading your Budgets and SOV](https://knowledge-base-whistledrywallapp.netlify.app/jobs/uploading-your-budgets-and-sov/) or creating a one-off Purchase Order, a use case for this is if there were materials that quickly needed to be inputted and ordered but we highly suggest utilizing the Whistle Drywall App's job ecosystem and creating PO's from your Job Product Master List.
+Clicking New will allow you to choose between creating a Purchase Order from an existing job's PML [Uploading your Budgets and SOV](https://help.whistledrywallapp.com/jobs/uploading-your-budgets-and-sov/) or creating a one-off Purchase Order, a use case for this is if there were materials that quickly needed to be inputted and ordered but we highly suggest utilizing the Whistle Drywall App's job ecosystem and creating PO's from your Job Product Master List.
 
 If there are any issues with understanding the PML and PO process please consult your qualified Project Manager or any of our support staff for help.
 
