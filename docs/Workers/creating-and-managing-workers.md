@@ -23,8 +23,8 @@ Once you've created the Worker Contract, you can now start editing the services 
 
 ![image](https://github.com/user-attachments/assets/cb3616dd-cc21-431a-a4a2-5e59a155c014)
 
-You can add items to the Worker contract straight from the SML linked to the job [Uploading your Budgets and SOV](https://knowledge-base-whistledrywallapp.netlify.app/Jobs/uploading-your-budgets-and-sov/) or from your global services list.
+You can add items to the Worker contract straight from the SML linked to the job [Uploading your Budgets and SOV](https://help.whistledrywallapp.com/Jobs/uploading-your-budgets-and-sov/) or from your global services list.
 
 Assign the correct values to each service and save.
 
-Once you're finished, you can now easily create Bills or have them create Bills for your organization to pay out. [Create and Manage Your BIlls](https://knowledge-base-whistledrywallapp.netlify.app/Bills/create-and-manage-your-bills/)
+Once you're finished, you can now easily create Bills or have them create Bills for your organization to pay out. [Create and Manage Your BIlls](https://help.whistledrywallapp.com/Bills/create-and-manage-your-bills/)
