@@ -6,7 +6,7 @@ The Whistle Drywall App has a Teams Module for managing your crews and teams per
 
 The Teams Module gives you an overview of your pre-existing teams or allows you to create a new team.
 
-Note, we suggest [Creating and Managing your Users](https://knowledge-base-whistledrywallapp.netlify.app/User%20Management/creating-and-managing-users/) beforehand as the Teams Module works better with our User Module utilized.
+Note, we suggest [Creating and Managing your Users](https://help.whistledrywallapp.com/User%20Management/creating-and-managing-users/) beforehand as the Teams Module works better with our User Module utilized.
 
 Let's create new teams now.
 
@@ -38,6 +38,6 @@ The workers and users assigned to the team will now have access to the job assig
 
 We suggest looking into creating and managing your vendors or working on your worker contracts from here.
 
-[Creating and Managing Vendors](https://knowledge-base-whistledrywallapp.netlify.app/Vendors/creating-and-managing-your-vendors/)
+[Creating and Managing Vendors](https://help.whistledrywallapp.com/Vendors/creating-and-managing-your-vendors/)
 
-[Create and Manage Workers](https://knowledge-base-whistledrywallapp.netlify.app/Workers/creating-and-managing-workers/)
+[Create and Manage Workers](https://help.whistledrywallapp.com/Workers/creating-and-managing-workers/)
