@@ -13,5 +13,9 @@ Getting started is simple:
 
 - 🔍 Use the search bar to quickly find articles by keywords or topics.
 - 📂 Browse with the navigation sidebar to explore categories and guides effortlessly.
+- 💡 Tip: If you have trouble reading an image, right-click on it and select "Open image in new tab." Then, switch to the new tab to view the image more closely and zoom in as needed.
+
+![image](https://github.com/user-attachments/assets/fa68ac1c-651b-45a2-863f-4e5bc0ca7166)
+
 
 If you still have questions or need further assistance, our support team is always ready to help. Contact us anytime!
