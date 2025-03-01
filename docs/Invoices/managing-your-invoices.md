@@ -26,7 +26,7 @@ Clicking the button will show a pop up window like below.
 ![image](https://github.com/user-attachments/assets/e4569290-5715-468d-bf08-edac0cb7325d)
 
 You can create an Invoice with or without an SOV from the appropriate job selected and we do highly recommend utilizing the Jobs module to update and work on your SOV
-[Uploading your Budgets and SOV](https://knowledge-base-whistledrywallapp.netlify.app/Jobs/uploading-your-budgets-and-sov/)
+[Uploading your Budgets and SOV](https://help.whistledrywallapp.com/Jobs/uploading-your-budgets-and-sov/)
 
 Fill in all relevant data and continue.
 
