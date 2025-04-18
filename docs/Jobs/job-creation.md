@@ -1,34 +1,43 @@
-# Job Creation
-The Jobs Page is your (client) overview for all jobs and their respective job state. (Active, Pre-Prod, etc.)
+---
+tags:
+    - Admin
+    - Foreman
+---
 
-![image](https://github.com/user-attachments/assets/d83a074d-68d8-4af1-9d9a-182142ac8abc)
+# Job Creation
+The Jobs Page is your overview for all jobs and their respective job state. (**_Pre-construction, Currently active, Overdue, Completed_**)
+The Currently Active status is required for a Job to be visible and accessible across the platform. Only active jobs can be used or updated by the assigned users
+
+![jobs](https://github.com/user-attachments/assets/7983023c-9ece-4654-9326-6e9238ee2e31)
 
 Company Admins, typically the owner or designated office personnel will be able to set-up various Jobs and their details with the "Create New Job" button.
 
-![image](https://github.com/user-attachments/assets/6f727e3a-87ae-4298-bf4d-a94883b2f7fb)
+![image](https://github.com/user-attachments/assets/f8b2e2ae-c486-4f86-8614-2a03ea4c9b03)
 
 Enter all the relevant data for your jobs as required by each entry field and proceed from there.
 Do note, that you can always come back to edit jobs as needed so for fields that you cannot fill at this time (Teams etc.) you can return later with no worries.
 
-![image](https://github.com/user-attachments/assets/b8f059af-9bd9-402c-9cf7-7d472f217732)
+Once you've entered the basic data, you can click on the blue button to create the new Job
 
-Once you've entered all the relevant fields, the page will look similar to the image above.
-Admins should take their time filling in the relevant fields here as they need.
-Do note that sub-level staff will not be able to see any jobs that are not set to "currently active" so ensure Admins set this status to avoid issues later.
+![image](https://github.com/user-attachments/assets/817f5fd3-3dfa-4193-93f8-d0c0f71270ee)
 
-![image](https://github.com/user-attachments/assets/7e0cc13f-fdea-4af8-92ff-fe0d2ba3881c)
+You can now begin filling in additional details for the Job, especially key dynamic fields that are used across other modules, such as:
+- [Foremen](https://whistledrywallapp.com/users/usersTable/)
+- [Vendors](https://whistledrywallapp.com/purchase-orders/vendors/)
+- [General Client (or Contractor)](https://whistledrywallapp.com/change-order-requests/contractors/)
+- Geofence Settings — including Radius, Latitude, and Longitude, if you want to enable the Geofence feature to ensure users can only clock in within a designated area around the job site.
+If you’re unsure how to obtain the coordinates for your job site, feel free to contact us. Just provide the job site address and the approximate radius in miles, and we’ll help you set it up.
 
-Once you're done filling in the fields you can and hit "Save" at the bottom right hand side of the page, you may return to the jobs page and locate the job which will look similar to the image above.
+![image](https://github.com/user-attachments/assets/bd49f9b4-0ff1-4ae3-8641-0bf23e9a82ee)
 
-If your job is not showing, you may have forgotten to set the job to the correct job status and you can always filter by job statuses which defaults to "Currently Active" jobs, shown below.
+Once you're done filling in the fields you can click on the **_Save changes_** button at the bottom right hand side of the page.
 
-Jobs are filtered this way as the Whistle App may also function as your long-term database for future reference.
+![image](https://github.com/user-attachments/assets/5e69b657-efae-417a-9b54-dec52815d143)
 
-![image](https://github.com/user-attachments/assets/4cd0dad5-27c4-453e-8536-ff0cbae8fe90)
+At any time, you can click on a Job row to view more details. This includes access to additional actions, such as importing or re-importing a **Budget** and **Schedule of Values (SOV)**.
 
-Once you're satisfied with the job information, we recommend moving onto uploading your Budget and SOV data to the relevant Job Uploading your Budgets and SOV
+![image](https://github.com/user-attachments/assets/ae2436f8-33ae-4da0-b45f-792bf405e649)+
 
-Or moving onto setting up the relevant members of your various teams and users.
-Creating and Managing Users
+![image](https://github.com/user-attachments/assets/c3eeafdf-4490-4a65-adb1-52da961f1de8)
 
-Remember, Whistle App Support is always available for you either via our FAQ and Knowledge Base or via your relevant support channels.
+Once you're satisfied with the job information, we recommend moving onto [Uploading your Budget and SOV](https://help.whistledrywallapp.com/Jobs/uploading-your-budgets-and-sov/) to the relevant Job.
