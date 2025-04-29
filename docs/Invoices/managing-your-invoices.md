@@ -1,3 +1,8 @@
+---
+tags:
+    - Admin
+---
+
 # Managing your Invoices
 The Whistle Drywall App's Invoice module allows you or your qualified staff members to create and track invoices for your all your jobs giving you an easy way to see all the payments going in for your jobs.
 

@@ -1,3 +1,9 @@
+---
+tags:
+    - Admin
+    - Foreman
+---
+
 The Whistle Drywall App is equipped with the Vendors Module to allow you to manage and provide an overview of all the Vendors that your organization will work with. Allowing you to easily assign them to specific jobs so your workers know to only utilize specific vendors for specific jobs and easily create Bills and Purchase Orders to assign to vendors.
 
 [Create and Manage your Purchase Orders](https://help.whistledrywallapp.com/Purchase%20Orders/creating-and-managing-your-purchase-orders/)

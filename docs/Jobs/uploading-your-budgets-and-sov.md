@@ -1,3 +1,8 @@
+---
+tags:
+    - Admin
+---
+
 # Uploading your Budgets and SOV
 Uploading your Budgets and Schedule of Values (SOV) to each relevant job is an easy yet important step of utilizing the Whistle App to its full potential.
 

@@ -1,3 +1,9 @@
+---
+tags:
+    - Admin
+    - Foreman
+---
+
 # Creating and Managing Users
 Creating and managing your Users is an important part of integrating the Whistle App into your company's workflow.
 

@@ -1,3 +1,9 @@
+---
+tags:
+    - Admin
+    - Foreman
+---
+
 # Creating and managing your Purchase Orders
 The Whistle Drywall App is designed to help you manage every aspect of your job and track what materials have been ordered to your job site.
 

@@ -1,3 +1,9 @@
+---
+tags:
+    - Admin
+    - Foreman
+---
+
 The Whistle Drywall App has a Teams Module for managing your crews and teams per job and allows for in-depth time and task tracking to increase efficiency for your organization as a whole.
 
 ![image](https://github.com/user-attachments/assets/bd9beae7-96a1-428d-a7e8-ec90b2446514)

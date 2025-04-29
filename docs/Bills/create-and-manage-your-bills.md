@@ -1,3 +1,10 @@
+---
+tags:
+    - Admin
+    - Foreman
+    - Staff
+---
+
 # Create and Manage Your BIlls
 The Whistle Drywall App has a bills module for tracking what your company owes specific workers and allows you to have an overview of where funds are being allocated and paid out.
 
