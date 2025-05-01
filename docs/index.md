@@ -9,4 +9,9 @@ Getting started is simple:
 - 💡 Open and zoom in on images to read the screenshot content.
 - 👷 At the top of each guide, you'll see tags indicating which user roles have access—such as Admin, Foreman, Staff, or Sub-Staff. This helps you quickly identify which guides are relevant to your role.
 
-If you still have questions or need further assistance, our support team is always ready to help. Contact us anytime!
+- <div style="display: flex; align-items: center;"><span style="color: #FF0033; font-size: 24px; display: flex;">:material-youtube:</span><span>Check out our video tutorials on YouTube👉 [English](https://www.youtube.com/playlist?list=PL66CJ_Sm3etxyB5lQHQn0ASfHvmsnoks9) | [Español](https://www.youtube.com/playlist?list=PL66CJ_Sm3etyBl7rsdXBCnczLxeiTbfwN)</span></div>
+
+**If you still have questions or need further assistance, our support team is always ready to help. Contact us anytime!**
+
+### T&M on the Mobile App
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G9LrDlj8KfQ" frameborder="0" allowfullscreen></iframe>
