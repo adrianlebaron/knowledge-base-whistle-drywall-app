@@ -6,7 +6,7 @@ Stay up to date with the new features and latest improvements in the **Whistle D
 
 ## 🧾 October 2025 
 
-???+ note
+???+ "Details"
     ### 🧠 Improvements
     - All dropdown filters across modules (**Invoices, Worker Contracts, Bills, Payments, Teams, and Tasks**) are now **searchable**.  
     - The **sidebar menu** items are now sorted **alphabetically** for easier navigation.
@@ -20,7 +20,7 @@ Stay up to date with the new features and latest improvements in the **Whistle D
 
 ## 🧾 September 2025
 
-???+ note
+???+ "Details"
     ### 🚀 New Features
     - Added a **warning modal** in the SML (Service Master List) workflow when trying to create a Bill for items already linked to an existing Bill.  
       The system now shows a detailed list of those services to help prevent duplicate charges.  
@@ -40,7 +40,7 @@ Stay up to date with the new features and latest improvements in the **Whistle D
 ---
 
 ## 🧾 July 2025 
-???+ note
+???+ "Details"
     ### 🚀 New Features
     - Added a **search bar** in the Invoice module to quickly locate invoices.  
     - Dropdown filters in the Invoice module are now **searchable**, making filtering faster.  
