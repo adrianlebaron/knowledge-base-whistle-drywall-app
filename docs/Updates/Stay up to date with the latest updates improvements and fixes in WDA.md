@@ -1,10 +1,10 @@
-# Release Notes
+# Latest Updates
+Stay up to date with the new features and latest improvements in the **Whistle Drywall App**.
 
-Stay up to date with the latest updates, improvements, and fixes in the **Whistle Drywall App**.
 
 ---
 
-## 🧾 October 2025 – Whistle Drywall App
+## 🧾 October 2025 
 
 ???+ note
     ### 🧠 Improvements
@@ -18,7 +18,7 @@ Stay up to date with the latest updates, improvements, and fixes in the **Whistl
 
 ---
 
-## 🧾 September 2025 – Whistle Drywall App
+## 🧾 September 2025
 
 ???+ note
     ### 🚀 New Features
@@ -39,8 +39,7 @@ Stay up to date with the latest updates, improvements, and fixes in the **Whistl
 
 ---
 
-## 🧾 July 2025 – Whistle Drywall App
-
+## 🧾 July 2025 
 ???+ note
     ### 🚀 New Features
     - Added a **search bar** in the Invoice module to quickly locate invoices.  
