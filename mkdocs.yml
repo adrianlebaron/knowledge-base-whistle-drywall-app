@@ -19,6 +19,8 @@ theme:
     - content.code.copy
     - content.code.annotate
     - content.metadata
+    - content.tabs.link
+    - content.code.copy
 
   language: en
   palette:
@@ -59,6 +61,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
       permalink: true
+      toc_depth: 2
   - tables
 
 plugins:
