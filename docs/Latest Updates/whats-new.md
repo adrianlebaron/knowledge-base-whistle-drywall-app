@@ -2,7 +2,7 @@
 
 Stay up to date with the newest features, improvements, and fixes in the **Whistle Drywall App**.
 
-We’ve been busy making Whistle even better for your day-to-day work. These updates focus on faster navigation, smoother billing, and small improvements that make a big difference when managing jobs, invoices, and payments.
+This page highlights what’s changed over time as we continue improving performance, usability, and reliability across the app. Each update includes a brief summary of the areas impacted, followed by detailed changes by month.
 
 ---
 
