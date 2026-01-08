@@ -9,7 +9,7 @@ tags:
 Let’s create our first Change Order Request. Don’t worry if this is your first time — this guide will walk you through in a simple and clear way.
 
 To get started, locate the COR module in the left-side menu under the **Admin** dropdown section.
-<img width="1130" height="1334" alt="5" src="https://github.com/user-attachments/assets/9ab8123b-0ab7-4aac-90c5-ffc287f2ff13" />
+![1](https://github.com/user-attachments/assets/04177148-4bfa-4ef3-bd17-f895c04c3138)
 
 ---
 
@@ -29,13 +29,13 @@ You’ll see a table listing all existing CORs. The details in the table include
 
 And to create a new Change Order Request, you’ll find the **New** button in the top-right corner.
 
-<img width="2512" height="1088" alt="2" src="https://github.com/user-attachments/assets/f3abd8fe-b347-47ad-b254-3bd37043495a" />
+![2](https://github.com/user-attachments/assets/40e2c0b6-e22a-431d-9fae-164ea324e052)
 
 After clicking the **New** button, you’ll be taken to the Change Order Request creation interface.
 
 This screen is where you’ll enter all the details needed to create your COR. The interface is divided into simple fields that help you organize the information clearly.
 
-<img width="2539" height="1368" alt="3" src="https://github.com/user-attachments/assets/e1724ab4-3e3a-4510-bb63-a7314c1a9382" />
+![3](https://github.com/user-attachments/assets/2327e301-a631-48d8-84eb-1bfdce98fb34)
 
 ---
 
@@ -46,7 +46,7 @@ Start by choosing the **Job** that this Change Order Request belongs to.
 Click the **Job dropdown menu** — this will display a list of all available jobs.  
 From the list, simply select the job you want to associate with the COR.
 
-<img width="2245" height="1350" alt="4" src="https://github.com/user-attachments/assets/a5d75320-3049-4ea4-8545-aae028516285" />
+![4](https://github.com/user-attachments/assets/9f2232e8-bedf-4a5f-9bb8-18e4cbdb5da3)
 
 ---
 
@@ -58,7 +58,7 @@ Now type in:
 - **Reference Number**
 - **Revision Number**
 
-<img width="2369" height="1343" alt="5" src="https://github.com/user-attachments/assets/03be6a75-383a-48cd-a6f0-ff59e3534958" />
+![5](https://github.com/user-attachments/assets/ee909983-023d-406f-a3b6-17d4c440e992)
 
 ---
 
@@ -74,7 +74,7 @@ For the **Status**, simply open the dropdown menu and choose from the available 
 - Cancelled  
 - Ready to Send  
 
-<img width="2281" height="1345" alt="6" src="https://github.com/user-attachments/assets/95708af9-2ee2-4dec-953c-c0422889d6de" />
+![6](https://github.com/user-attachments/assets/ec1ec7f7-60a2-48d6-b4e2-3f9b7df12ed2)
 
 ---
 
@@ -88,7 +88,7 @@ If the COR was accepted before being added to the system, this is where you woul
 
 In this example, we’ll skip this field, but it’s good for you as a user to be aware of its purpose.
 
-<img width="1764" height="167" alt="7" src="https://github.com/user-attachments/assets/387dffab-0acc-4ff5-825d-f3d41a88b416" />
+![7](https://github.com/user-attachments/assets/d74c1ac8-850e-4a67-aad5-9e222ec39f48)
 
 ---
 
@@ -96,7 +96,7 @@ In this example, we’ll skip this field, but it’s good for you as a user to b
 
 Next, you’ll find the **Description** field — this is where you can type all the details and explanations for the COR, as much as needed.
 
-<img width="2360" height="1343" alt="8" src="https://github.com/user-attachments/assets/f40a0575-ffe3-475a-8260-92ac6a9008ef" />
+![8](https://github.com/user-attachments/assets/5622b0eb-84eb-4556-a8e1-fbde1fc82b82)
 
 ---
 
@@ -104,15 +104,15 @@ Next, you’ll find the **Description** field — this is where you can type all
 
 Continuing down the page, you’ll find the **Attachments** button.
 
-<img width="2526" height="1309" alt="9" src="https://github.com/user-attachments/assets/b5ed2e08-f8a5-4803-9f30-2d2594e055af" />
+![9](https://github.com/user-attachments/assets/e3a6000a-74b9-439d-96b2-d05fdb05b24e)
 
 Clicking it will open your computer’s file browser, allowing you to select PDFs, images, or any other supporting documents needed for the COR. Simply choose the files you want and click **Open** (on Windows).
 
-<img width="1037" height="879" alt="10" src="https://github.com/user-attachments/assets/30894a7a-fce5-410b-a89c-6cdb5f25415c" />
+![10](https://github.com/user-attachments/assets/0ab2e77b-823b-4f8e-b45f-bf268d93d1e2)
 
 Once the files are attached, you can double-check them by the file count displayed next to the button. When you hover, a small preview will appear showing the file names and details.
 
-<img width="1779" height="467" alt="11" src="https://github.com/user-attachments/assets/02c1561d-8a0c-4082-af7d-99d343879c96" />
+![11](https://github.com/user-attachments/assets/4b1caa20-4583-4562-b92c-c0ebee7c6df1)
 
 ---
 
@@ -122,14 +122,15 @@ Continuing to the bottom of the New COR page, you’ll find a dropdown menu wher
 
 Simply click **Select a Client Contact**, and a list of all contacts linked to that client will appear.
 
-<img width="2507" height="1246" alt="12" src="https://github.com/user-attachments/assets/869d8453-4752-432a-a5f8-18f2f89a2d2e" />
+![12](https://github.com/user-attachments/assets/0b989369-5ab3-4c33-a11b-83ecc8df1b0b)
 
 If this is your first COR and you haven’t assigned a client to the job yet, a message will appear letting you know that you must assign a client before continuing.  
 Without assigning a client, the COR cannot be saved — so make sure to add one to move forward.
 
 If you’re not yet familiar with how to create client contacts and assign them to your job sites, you can follow our step-by-step guide here: *Create Client Contacts*.
 
-<img width="1562" height="209" alt="13" src="https://github.com/user-attachments/assets/f1950fbd-dbfb-4c32-b873-64db565fe988" />
+![13](https://github.com/user-attachments/assets/a9dc5e8a-154b-4b4b-a908-06e7e136077e)
+
 
 ---
 
@@ -138,7 +139,7 @@ If you’re not yet familiar with how to create client contacts and assign them 
 For the last three fields, you’ll find options to add any **materials**, **equipment**, or **labor** used for the COR.  
 Just click the corresponding button, and a modal will open where you can enter the details.
 
-<img width="2180" height="1002" alt="14" src="https://github.com/user-attachments/assets/b98c41ff-0e98-4331-b316-e108efeb89b8" />
+![14](https://github.com/user-attachments/assets/72948c9e-9594-4635-86ab-ef58ff839ff4)
 
 ---
 
@@ -155,11 +156,11 @@ Here you can enter details for one material at a time, including:
 As you fill these fields, the system will automatically calculate the total at the bottom.  
 Once everything looks correct, simply click **Add Material** to save it.
 
-<img width="1028" height="699" alt="15" src="https://github.com/user-attachments/assets/dfd96539-a8dd-4f17-98ba-a9e78b1c7c65" />
+![15](https://github.com/user-attachments/assets/43050ef3-571f-4640-be23-49678a972fd2)
 
 When you start typing in the Name field, a list of matching materials from your global material list will appear, making it easy to select preset items with their default values for quick entry. You can simply pick one from the list or choose to enter the material details from scratch.
 
-<img width="2498" height="1349" alt="16" src="https://github.com/user-attachments/assets/625677ce-4a02-4d6b-8e6e-3c66f8cc32e0" />
+![16](https://github.com/user-attachments/assets/501c9e39-4ad8-4c51-b6cc-a2bb4bbadffe)
 
 ---
 
@@ -168,7 +169,7 @@ When you start typing in the Name field, a list of matching materials from your 
 Continuing with **Equipment**, when you start typing, the system will display a list of previously used equipment items with their preset values.  
 You can select one from the list or enter a completely new equipment item if needed.
 
-<img width="799" height="527" alt="17" src="https://github.com/user-attachments/assets/500d6ad1-e59e-4e32-9cbf-ea3afab68232" />
+![17](https://github.com/user-attachments/assets/e0882a20-c583-4c22-9324-facfd296f3a1)
 
 ---
 
@@ -178,7 +179,8 @@ For **Labor**, the process works the same way.
 When you start typing, the system will show a list of previously used labor items with their preset values.  
 You can select one or enter a new labor entry if needed.
 
-<img width="1198" height="791" alt="18" src="https://github.com/user-attachments/assets/bbbc079c-fd88-4153-9e91-04b14cae06e6" />
+![18](https://github.com/user-attachments/assets/70f522a0-2539-412b-8474-ad1aa5ef5cff)
+
 
 ---
 
@@ -191,7 +193,8 @@ The system will automatically calculate the markup amount and update the final t
 
 Simply adjust the percentage as needed to match your pricing or company standards.
 
-<img width="2191" height="1145" alt="19" src="https://github.com/user-attachments/assets/72a7b706-fa3b-469a-8296-e2dfa687863c" />
+![19](https://github.com/user-attachments/assets/283d48fe-b20f-45ca-a8ce-cc786ebe692b)
+
 
 Once everything looks good, click the **Save** button to finish.
 
