@@ -4,7 +4,7 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - Home: index.md
+  - Knowledge Base: index.md
 
   - Bills:
       - Create and Manage Your Bills: Bills/create-and-manage-your-bills.md
