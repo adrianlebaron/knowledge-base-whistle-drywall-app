@@ -3,6 +3,42 @@ site_url: https://knowledge-base-whistledrywallapp.netlify.app/
 extra_css:
   - stylesheets/extra.css
 
+nav:
+  - Knowledge Base: index.md
+
+  - Bills:
+      - Create and Manage Your Bills: Bills/create-and-manage-your-bills.md
+
+  - Change Order Request:
+      - Create a Change Order Request: Change Order Request/Create-a-Change-Order-Request.md
+
+  - Invoices:
+      - Managing Your Invoices: Invoices/managing-your-invoices.md
+
+  - Jobs:
+      - Job Creation: Jobs/job-creation.md
+      - Uploading Your Budgets and SOV: Jobs/uploading-your-budgets-and-sov.md
+
+  - Purchase Orders:
+      - Creating and Managing Your Purchase Orders: Purchase Orders/creating-and-managing-your-purchase-orders.md
+
+  - Teams:
+      - Creating and Managing Your Teams: Teams/creating-and-managing-your-teams.md
+
+
+  - User Management:
+      - Creating and Managing Users: User Management/creating-and-managing-users.md
+
+  - Vendors:
+      - Creating and Managing Your Vendors: Vendors/creating-and-managing-your-vendors.md
+
+  - Worker Contracts:
+      - Creating and Managing Worker Contracts: Worker Contracts/creating-and-managing-worker-contracts.md
+
+  - Latest Updates:
+      - What’s New: Latest Updates/whats-new.md
+
+
 theme:
   name: material
   features:
