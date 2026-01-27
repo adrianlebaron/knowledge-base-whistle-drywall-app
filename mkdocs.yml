@@ -36,14 +36,14 @@ nav:
           - Creating and Managing Worker Contracts: Web App/Worker Contracts/creating-and-managing-worker-contracts.md
 
   - Mobile App:
-      - Create a Time And Material: time-and-material.md
+      - Create a Time And Material: "Mobile App/time-and-material.md"
       # add mobile-specific docs here later
 
   - Latest Updates:
-      - November/December 2025: 11-12-2025.md  
-      - October 2025: 10-2025.md
-      - September 2025: 09-2025.md
-      - July/August 2025: 07-08-2025.md
+      - November/December 2025: "Latest Updates/11-12-2025.md"  
+      - October 2025: "Latest Updates/10-2025.md"
+      - September 2025: "Latest Updates/09-2025.md"
+      - July/August 2025: "Latest Updates/07-08-2025.md"
        
 theme:
   name: material
