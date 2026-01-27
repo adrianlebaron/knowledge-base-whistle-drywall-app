@@ -6,39 +6,45 @@ extra_css:
 nav:
   - Knowledge Base: index.md
 
-  - Bills:
-      - Create and Manage Your Bills: Bills/create-and-manage-your-bills.md
+  - Web App:
+      - Bills:
+          - Create and Manage Your Bills: Web App/Bills/create-and-manage-your-bills.md
 
-  - Change Order Request:
-      - Create a Change Order Request: Change Order Request/Create-a-Change-Order-Request.md
+      - Change Order Requests:
+          - Create a Change Order Request: Web App/Change Order Request/Create-a-Change-Order-Request.md
 
-  - Invoices:
-      - Managing Your Invoices: Invoices/managing-your-invoices.md
+      - Invoices:
+          - Managing Your Invoices: Web App/Invoices/managing-your-invoices.md
 
-  - Jobs:
-      - Job Creation: Jobs/job-creation.md
-      - Uploading Your Budgets and SOV: Jobs/uploading-your-budgets-and-sov.md
+      - Jobs:
+          - Job Creation: Web App/Jobs/job-creation.md
+          - Uploading Your Budgets and SOV: Web App/Jobs/uploading-your-budgets-and-sov.md
 
-  - Purchase Orders:
-      - Creating and Managing Your Purchase Orders: Purchase Orders/creating-and-managing-your-purchase-orders.md
+      - Purchase Orders:
+          - Creating and Managing Your Purchase Orders: Web App/Purchase Orders/creating-and-managing-your-purchase-orders.md
 
-  - Teams:
-      - Creating and Managing Your Teams: Teams/creating-and-managing-your-teams.md
+      - Teams:
+          - Creating and Managing Your Teams: Web App/Teams/creating-and-managing-your-teams.md
 
+      - User Management:
+          - Creating and Managing Users: Web App/User Management/creating-and-managing-users.md
 
-  - User Management:
-      - Creating and Managing Users: User Management/creating-and-managing-users.md
+      - Vendors:
+          - Creating and Managing Your Vendors: Web App/Vendors/creating-and-managing-your-vendors.md
 
-  - Vendors:
-      - Creating and Managing Your Vendors: Vendors/creating-and-managing-your-vendors.md
+      - Worker Contracts:
+          - Creating and Managing Worker Contracts: Web App/Worker Contracts/creating-and-managing-worker-contracts.md
 
-  - Worker Contracts:
-      - Creating and Managing Worker Contracts: Worker Contracts/creating-and-managing-worker-contracts.md
+  - Mobile App:
+      - Create a Time And Material: time-and-material.md
+      # add mobile-specific docs here later
 
   - Latest Updates:
-      - What’s New: Latest Updates/whats-new.md
-
-
+      - November/December 2025: 11-12-2025.md  
+      - October 2025: 10-2025.md
+      - September 2025: 09-2025.md
+      - July/August 2025: 07-08-2025.md
+       
 theme:
   name: material
   features:
