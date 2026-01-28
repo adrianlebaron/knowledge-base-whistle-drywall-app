@@ -36,7 +36,7 @@ nav:
           - Creating and Managing Worker Contracts: Web App/Worker Contracts/creating-and-managing-worker-contracts.md
 
   - Mobile App:
-      - Create a Time And Material: "Mobile App/time-and-material.md"
+      - Creating a Time and Material Entry: "Mobile App/time-and-material.md"
       # add mobile-specific docs here later
 
   - Latest Updates:
