@@ -110,3 +110,30 @@ If equipment was used, record it under the Equipment section.
 **Unit of Measure**. Define how the equipment usage is measured, such as Hrs or Days.
 
 ![16](https://github.com/user-attachments/assets/117868b2-091b-4b66-b465-47040d385eb5)
+
+## We almost there, next is two options to attached files and pictures. 
+
+![17](https://github.com/user-attachments/assets/53b87ac5-eb3b-42d9-bd9c-bf2c1da25bc3)
+
+## Step 15: Attached files.
+
+When clicking the cloud icon, we head to the attached files interface of or own operation system in this case is android example, all operation should look close all depends of your type of phone, we can uploud PDF's files and documents. From here we can also uploud images if need it, one by one. 
+
+![18](https://github.com/user-attachments/assets/f73d20a1-e3e6-4593-a2d0-31c3ee732f05)
+
+## Step 16: Take a picture to uploud or select from your mobile device. 
+
+![19](https://github.com/user-attachments/assets/fb1d894a-0702-4591-beb3-ee45777b37bc)
+
+## Step 17: Save T&M Entry. 
+
+**Uploud files** preview looks like this. 
+
+By clickin at bottom buttom action **SAVE** we complete the process of making a complete T&M from the mobile app. 
+
+![20](https://github.com/user-attachments/assets/542febe6-df60-4ee7-af03-0199b387ae4c)
+
+
+
+
+
