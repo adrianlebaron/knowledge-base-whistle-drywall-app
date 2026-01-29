@@ -63,10 +63,28 @@ If the work was performed on behalf of another subcontractor, complete the field
 ![12](https://github.com/user-attachments/assets/3d8cd479-ed87-4030-8a2c-764a66782a75)
 
 ## Add all materials, labor, and equipment used to ensure the Time and Material entry accurately reflects the work performed and supports proper billing.
-![16](https://github.com/user-attachments/assets/8abf86d6-c832-4478-b8d6-514322ceaa32)
+![13](https://github.com/user-attachments/assets/2538a6fa-1e28-4ce8-9de1-1acced3d1297)
 
-## Step 12: Enter Material Details
 
+## Step 12: Enter Material Details.
+Name. Enter the name of the material used. This can be written freely to match how the material is referenced on site or in billing.
+Quantity. Enter the total amount of material used.
+Unit of Measure. Select or type the unit used to measure the material.
+This field is flexible and can be set based on how the material is tracked, such as Ea, Box, Sheets, or similar.
 ![14](https://github.com/user-attachments/assets/645623d4-df91-4553-8b9d-c8e10e670bf7)
+
+## Step 13: Enter Labor Details.
+Use the Labor section to record labor associated with the Time and Material work.
+Name. Enter the type of labor performed.
+Quantity. Enter the total amount of time worked.
+Unit of Measure. Specify how labor is measured. This is typically entered as Hrs, but can be adjusted if needed.
+![15](https://github.com/user-attachments/assets/fbf30bce-6128-40e7-b795-097b93e8a884)
+
+## Step 14: Enter Equipement Details.
+If equipment was used, record it under the Equipment section.
+Name. Enter the name of the equipment used.
+Quantity. Enter the total time or amount the equipment was used.
+Unit of Measure. Define how the equipment usage is measured, such as Hrs or Days.
+![16](https://github.com/user-attachments/assets/117868b2-091b-4b66-b465-47040d385eb5)
 
 
